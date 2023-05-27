@@ -1,11 +1,17 @@
-# Dropdown Menu
-## [Watch it on youtube](https://youtu.be/Loi7mBAYdSs)
-### Dropdown Menu
+ <h2 align="center">Dropdown Menu</h2>
+
+  <h4 align="center">Dropdown Menu Using HTML CSS & JavaScript</h4>
+
+  <h4 align="center"><a href="https://alphaotuken.github.io/Dropdown-MENU/"><strong>➥ Live Demo</strong></a></h4>
 
 - Dropdown Menu Using HTML CSS & JavaScript
 - Contains a button that shows and hides the menu.
 - Along with an animation when showing the menu.
 
-💙 Join the channel to see more videos like this. [Bedimcode](https://www.youtube.com/@Bedimcode)
+### Contact
 
-![preview img](/preview.png)
+If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/taloisik).
+
+### License
+
+This project is **free to use** and does not contains any license.
