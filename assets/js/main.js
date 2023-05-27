@@ -1,4 +1,3 @@
-
 /*=============== DROPDOWN JS ===============*/
 const showDropdown = (content, button) =>{
    const dropdownContent = document.getElementById(content),
